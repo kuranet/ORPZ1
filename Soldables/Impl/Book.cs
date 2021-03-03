@@ -2,14 +2,15 @@
 {
     public class Book : ISoldable
     {
-        public string Title { get; }
+        public string Title => Configuration.Title;
 
-        public double Price { get; }
+        public double Price => Configuration.Price;
 
-        public Book(string title, double price)
+        private SoldableConfiguration Configuration { get; }
+
+        public Book(SoldableConfiguration configuration)
         {
-            Title = title;
-            Price = price;
+            Configuration = configuration;
         }
     }
 }
