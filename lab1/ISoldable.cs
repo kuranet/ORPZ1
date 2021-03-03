@@ -2,5 +2,7 @@
 {
     interface ISoldable
     {
+        string Title { get; }
+        double Price { get; }
     }
 }
