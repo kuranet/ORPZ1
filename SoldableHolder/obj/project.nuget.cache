@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fubLRC9KQNvN1pSI22tRO1kYIA+KvjBRUU9eu+9e24eZjZd6IYsJJTutm/6P1kh1+fpmSI8jDpVu24v5PSXVrg==",
+  "success": true,
+  "projectFilePath": "D:\\C# .Net\\SoldableHolder\\SoldableHolder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ann\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ann\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace lab1
 {
-    class Library : ISoldableHolder
+    public class Library : ISoldableHolder
     {
         private List<SoldableWrapper> _soldables = new List<SoldableWrapper>();
 

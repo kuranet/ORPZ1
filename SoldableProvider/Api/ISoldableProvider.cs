@@ -2,9 +2,10 @@
 
 namespace lab1
 {
-    interface ISoldableProvider
+    public interface ISoldableProvider
     {
         void RegisterHolder(ISoldableHolder soldableHolder);
+
         bool TryGetHolders(string soldableTitle, out IEnumerable<ISoldableHolder> foundHolders);
     }
 }

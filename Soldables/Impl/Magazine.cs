@@ -1,12 +1,12 @@
 ﻿namespace lab1
 {
-    class Book : ISoldable
+    public class Magazine : ISoldable
     {
         public string Title { get; }
 
         public double Price { get; }
 
-        public Book(string title, double price)
+        public Magazine(string title, double price)
         {
             Title = title;
             Price = price;

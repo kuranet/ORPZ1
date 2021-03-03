@@ -2,7 +2,7 @@
 
 namespace lab1
 {
-    interface ISoldableHolder
+    public interface ISoldableHolder
     {
         string HoldersName { get; }
 

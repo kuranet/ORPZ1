@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace lab1
 {
-    class SoldableProvider : ISoldableProvider
+    public class SoldableProvider : ISoldableProvider
     {
         private static SoldableProvider _instance = new SoldableProvider();
         public static SoldableProvider GetInstance() => _instance;

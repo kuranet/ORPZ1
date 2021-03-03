@@ -1,0 +1,9 @@
+D:\C# .Net\Soldables\bin\Debug\netstandard2.0\Soldables.deps.json
+D:\C# .Net\Soldables\bin\Debug\netstandard2.0\Soldables.dll
+D:\C# .Net\Soldables\bin\Debug\netstandard2.0\Soldables.pdb
+D:\C# .Net\Soldables\obj\Debug\netstandard2.0\Soldables.csprojAssemblyReference.cache
+D:\C# .Net\Soldables\obj\Debug\netstandard2.0\Soldables.AssemblyInfoInputs.cache
+D:\C# .Net\Soldables\obj\Debug\netstandard2.0\Soldables.AssemblyInfo.cs
+D:\C# .Net\Soldables\obj\Debug\netstandard2.0\Soldables.csproj.CoreCompileInputs.cache
+D:\C# .Net\Soldables\obj\Debug\netstandard2.0\Soldables.dll
+D:\C# .Net\Soldables\obj\Debug\netstandard2.0\Soldables.pdb

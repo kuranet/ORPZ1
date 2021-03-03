@@ -1,6 +1,6 @@
 ﻿namespace lab1
 {
-    interface ISoldable
+    public interface ISoldable
     {
         string Title { get; }
         double Price { get; }

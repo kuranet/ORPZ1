@@ -1,11 +1,69 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Soldable/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Soldable.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Soldable.dll": {}
+        }
+      },
+      "SoldableHolder/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Soldable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SoldableHolder.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SoldableHolder.dll": {}
+        }
+      },
+      "SoldableProvider/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Soldable": "1.0.0",
+          "SoldableHolder": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SoldableProvider.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SoldableProvider.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Soldable/1.0.0": {
+      "type": "project",
+      "path": "../Soldables/Soldable.csproj",
+      "msbuildProject": "../Soldables/Soldable.csproj"
+    },
+    "SoldableHolder/1.0.0": {
+      "type": "project",
+      "path": "../SoldableHolder/SoldableHolder.csproj",
+      "msbuildProject": "../SoldableHolder/SoldableHolder.csproj"
+    },
+    "SoldableProvider/1.0.0": {
+      "type": "project",
+      "path": "../SoldableProvider/SoldableProvider.csproj",
+      "msbuildProject": "../SoldableProvider/SoldableProvider.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Soldable >= 1.0.0",
+      "SoldableHolder >= 1.0.0",
+      "SoldableProvider >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ann\\.nuget\\packages\\": {},
@@ -36,7 +94,17 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\C# .Net\\SoldableHolder\\SoldableHolder.csproj": {
+              "projectPath": "D:\\C# .Net\\SoldableHolder\\SoldableHolder.csproj"
+            },
+            "D:\\C# .Net\\SoldableProvider\\SoldableProvider.csproj": {
+              "projectPath": "D:\\C# .Net\\SoldableProvider\\SoldableProvider.csproj"
+            },
+            "D:\\C# .Net\\Soldables\\Soldable.csproj": {
+              "projectPath": "D:\\C# .Net\\Soldables\\Soldable.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
