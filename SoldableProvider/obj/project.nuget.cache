@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qvX8uwly6rilfweLBYAIMFN9v0MMCV+OUIMUfnPeHGrOoDPaGVgnunyaohDsKNHWfuaRG4nDmE1PYwYxHGX50w==",
+  "dgSpecHash": "lWuhHDXQOmGudbqixWGZYLhP5xYYu6LdQciJ4rwZxF+22zLf5RL6eFaEsbJHcWa0496GpY1kjb3ZEA4OgCt5ww==",
   "success": true,
-  "projectFilePath": "D:\\C# .Net\\SoldableProvider\\SoldableProvider.csproj",
+  "projectFilePath": "C:\\просто зачем, просто почему\\orpz1\\SoldableProvider\\SoldableProvider.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ann\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Ann\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Anna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

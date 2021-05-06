@@ -66,23 +66,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ann\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Anna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# .Net\\lab1\\lab1.csproj",
+      "projectUniqueName": "C:\\просто зачем, просто почему\\orpz1\\lab1\\lab1.csproj",
       "projectName": "lab1",
-      "projectPath": "D:\\C# .Net\\lab1\\lab1.csproj",
-      "packagesPath": "C:\\Users\\Ann\\.nuget\\packages\\",
-      "outputPath": "D:\\C# .Net\\lab1\\obj\\",
+      "projectPath": "C:\\просто зачем, просто почему\\orpz1\\lab1\\lab1.csproj",
+      "packagesPath": "C:\\Users\\Anna\\.nuget\\packages\\",
+      "outputPath": "C:\\просто зачем, просто почему\\orpz1\\lab1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anna\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -94,15 +90,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\C# .Net\\SoldableHolder\\SoldableHolder.csproj": {
-              "projectPath": "D:\\C# .Net\\SoldableHolder\\SoldableHolder.csproj"
+            "C:\\просто зачем, просто почему\\orpz1\\SoldableHolder\\SoldableHolder.csproj": {
+              "projectPath": "C:\\просто зачем, просто почему\\orpz1\\SoldableHolder\\SoldableHolder.csproj"
             },
-            "D:\\C# .Net\\SoldableProvider\\SoldableProvider.csproj": {
-              "projectPath": "D:\\C# .Net\\SoldableProvider\\SoldableProvider.csproj"
+            "C:\\просто зачем, просто почему\\orpz1\\SoldableProvider\\SoldableProvider.csproj": {
+              "projectPath": "C:\\просто зачем, просто почему\\orpz1\\SoldableProvider\\SoldableProvider.csproj"
             },
-            "D:\\C# .Net\\Soldables\\Soldable.csproj": {
-              "projectPath": "D:\\C# .Net\\Soldables\\Soldable.csproj"
+            "C:\\просто зачем, просто почему\\orpz1\\Soldables\\Soldable.csproj": {
+              "projectPath": "C:\\просто зачем, просто почему\\orpz1\\Soldables\\Soldable.csproj"
             }
           }
         }
@@ -115,6 +112,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -125,18 +123,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
