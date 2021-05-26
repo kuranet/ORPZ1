@@ -1,0 +1,13 @@
+D:\C# .Net\lr4\bin\Debug\netcoreapp3.1\lr4.exe
+D:\C# .Net\lr4\bin\Debug\netcoreapp3.1\lr4.deps.json
+D:\C# .Net\lr4\bin\Debug\netcoreapp3.1\lr4.runtimeconfig.json
+D:\C# .Net\lr4\bin\Debug\netcoreapp3.1\lr4.runtimeconfig.dev.json
+D:\C# .Net\lr4\bin\Debug\netcoreapp3.1\lr4.dll
+D:\C# .Net\lr4\bin\Debug\netcoreapp3.1\lr4.pdb
+D:\C# .Net\lr4\obj\Debug\netcoreapp3.1\lr4.csprojAssemblyReference.cache
+D:\C# .Net\lr4\obj\Debug\netcoreapp3.1\lr4.AssemblyInfoInputs.cache
+D:\C# .Net\lr4\obj\Debug\netcoreapp3.1\lr4.AssemblyInfo.cs
+D:\C# .Net\lr4\obj\Debug\netcoreapp3.1\lr4.csproj.CoreCompileInputs.cache
+D:\C# .Net\lr4\obj\Debug\netcoreapp3.1\lr4.dll
+D:\C# .Net\lr4\obj\Debug\netcoreapp3.1\lr4.pdb
+D:\C# .Net\lr4\obj\Debug\netcoreapp3.1\lr4.genruntimeconfig.cache
