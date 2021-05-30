@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cinemas>
+  <cinema>
+    <name>cinema</name>
+    <rank>StereoFormatFilm</rank>
+    <placeCapacity>136</placeCapacity>
+    <buildYear>2003</buildYear>
+  </cinema>
+  <cinema>
+    <name>cii</name>
+    <rank>WideScreenFilm</rank>
+    <placeCapacity>444</placeCapacity>
+    <buildYear>2000</buildYear>
+  </cinema>
+</cinemas>

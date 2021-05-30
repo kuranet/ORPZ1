@@ -1,0 +1,13 @@
+D:\C# .Net\lr5\bin\Debug\netcoreapp3.1\lr5.exe
+D:\C# .Net\lr5\bin\Debug\netcoreapp3.1\lr5.deps.json
+D:\C# .Net\lr5\bin\Debug\netcoreapp3.1\lr5.runtimeconfig.json
+D:\C# .Net\lr5\bin\Debug\netcoreapp3.1\lr5.runtimeconfig.dev.json
+D:\C# .Net\lr5\bin\Debug\netcoreapp3.1\lr5.dll
+D:\C# .Net\lr5\bin\Debug\netcoreapp3.1\lr5.pdb
+D:\C# .Net\lr5\obj\Debug\netcoreapp3.1\lr5.csprojAssemblyReference.cache
+D:\C# .Net\lr5\obj\Debug\netcoreapp3.1\lr5.AssemblyInfoInputs.cache
+D:\C# .Net\lr5\obj\Debug\netcoreapp3.1\lr5.AssemblyInfo.cs
+D:\C# .Net\lr5\obj\Debug\netcoreapp3.1\lr5.csproj.CoreCompileInputs.cache
+D:\C# .Net\lr5\obj\Debug\netcoreapp3.1\lr5.dll
+D:\C# .Net\lr5\obj\Debug\netcoreapp3.1\lr5.pdb
+D:\C# .Net\lr5\obj\Debug\netcoreapp3.1\lr5.genruntimeconfig.cache

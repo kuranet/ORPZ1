@@ -1,21 +1,18 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace lr4
+namespace lr5
 {
     class Cinema
     {
-        private List<Film> _showedFilms = new List<Film>();
-
-        public int Id { get; }
         public string Name { get; }
         public CinemaRank Rank { get; }
         public long PlaceCapacity { get; }
         public int BuildYear { get; }
-        public List<Film> ShowedFilms => _showedFilms;
 
-        public Cinema(int id, string name, CinemaRank rank, long placeCapacity, int buildYear)
+        public Cinema(string name, CinemaRank rank, long placeCapacity, int buildYear)
         {
-            Id = id;
             Name = name;
             Rank = rank;
             PlaceCapacity = placeCapacity;
